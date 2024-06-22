@@ -6,6 +6,7 @@ public class Main {
     public static void main(String[] args) {
 
                     /*
+---- Single Dimension
         SingleDimension array = new SingleDimension(5);
 
 
@@ -54,5 +55,18 @@ public class Main {
         arr.insert(0,0,100);
         arr.insert(1,2,12);
         System.out.println(Arrays.deepToString(arr.arr));
+
+        arr.accessCell(0,0);
+        arr.accessCell(1,1);
+
+        arr.traverse2DArray();
+
+        arr.searchingValue(12);
+        arr.searchingValue(100);
+
+        arr.deleteValueFromArray(0,0);
+        System.out.println(Arrays.deepToString(arr.arr));
     }
+
+
 }

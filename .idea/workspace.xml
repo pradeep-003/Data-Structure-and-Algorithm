@@ -4,16 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84ad4c34-49f1-40e9-8795-7699ad544d7a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Udemy_DSA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ARRAY/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ARRAY/SingleDimension.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ARRAY/TwoDimension.java" afterDir="false" />
+    <list default="true" id="84ad4c34-49f1-40e9-8795-7699ad544d7a" name="Changes" comment="20/6/2024">
+      <change afterPath="$PROJECT_DIR$/src/ARRAY/LinearSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ARRAY/MaxProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ARRAY/Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ARRAY/PracticeQue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ARRAY/Temperature_project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ARRAY/UniqueArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ARRAY/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARRAY/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ARRAY/TwoDimension.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARRAY/TwoDimension.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +48,11 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;
+    ]
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -59,6 +64,18 @@
       <option name="presentableId" value="Default" />
       <updated>1718885279268</updated>
     </task>
+    <task id="LOCAL-00001" summary="20/6/2024">
+      <created>1718944931180</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718944931180</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="20/6/2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="20/6/2024" />
   </component>
 </project>
