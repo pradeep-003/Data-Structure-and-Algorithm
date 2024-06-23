@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84ad4c34-49f1-40e9-8795-7699ad544d7a" name="Changes" comment="20/6/2024">
-      <change afterPath="$PROJECT_DIR$/src/ARRAY/LinearSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ARRAY/MaxProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ARRAY/Permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ARRAY/PracticeQue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ARRAY/Temperature_project.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ARRAY/UniqueArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ARRAY/RotateMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ARRAYLIST/arrList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ARRAY/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARRAY/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ARRAY/TwoDimension.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARRAY/TwoDimension.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
