@@ -5,7 +5,6 @@ public class MaxProduct {
         int[] intArray = {10,60,80,40,50};
         String pairs = maxProduct(intArray);
         System.out.println(pairs);
-
     }
 
     // Max Product

@@ -4,12 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84ad4c34-49f1-40e9-8795-7699ad544d7a" name="Changes" comment="20/6/2024">
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/CircularSinglyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList/SinglyLinkedList.java" afterDir="false" />
+    <list default="true" id="84ad4c34-49f1-40e9-8795-7699ad544d7a" name="Changes" comment="03/7/2024">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ARRAY/N_Stacks_In_an_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/MiddleElementOfStack_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver/Array/MatrixRotation/BruteForce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver/Array/PascalTriangle/Variation2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver/Array/PascalTriangle/Variation3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver/Array/PascalTriangle/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver/Array/PascalTriangle/variation1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Striver/Array/sort012/BetterApproach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TREE/BinaryNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TREE/BinaryTreeLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TREE/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TREE/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ARRAY/MaxProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ARRAY/MaxProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList/SinglyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList/SinglyLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,10 +41,18 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/ARRAY/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/TREE/BinaryNode.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/TREE/BinaryTreeLL.java" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -43,7 +68,8 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Udemy_DSA/src/Sorting&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;ChangesTree.GroupingKeys&quot;: [
@@ -51,6 +77,14 @@
     ]
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Udemy_DSA\src\Sorting" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Udemy_DSA\src\Sorting" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -67,11 +101,26 @@
       <option name="project" value="LOCAL" />
       <updated>1718944931180</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="03/7/2024">
+      <created>1719997749221</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719997749221</updated>
+    </task>
+    <task id="LOCAL-00003" summary="03/7/2024">
+      <created>1721280336074</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721280336074</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20/6/2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="20/6/2024" />
+    <MESSAGE value="03/7/2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="03/7/2024" />
   </component>
 </project>

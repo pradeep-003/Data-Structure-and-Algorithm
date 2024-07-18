@@ -33,6 +33,9 @@ public class Main {
 
 */
 
+        /*
+
+
         CircularSinglyLinkedList csll = new CircularSinglyLinkedList();
         csll.createCSLL(5);
         csll.insertCSLL(10,1);
@@ -45,5 +48,18 @@ public class Main {
         csll.deleteNode(5);
         csll.traverseCSLL();
         System.out.println(csll.tail.value);
+
+ */
+
+        StackBySLL sbll = new StackBySLL();
+        sbll.push(1);
+        sbll.push(2);
+        sbll.push(3);
+        boolean result = sbll.isEmpty();
+        System.out.println(result);
+        int res = sbll.pop();
+        int res1 = sbll.pop();
+        System.out.println(res);
+        System.out.println(res1);
     }
 }

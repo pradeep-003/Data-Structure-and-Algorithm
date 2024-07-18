@@ -92,7 +92,7 @@ public class SinglyLinkedList {
             }
         } else if (location >= size-1) {
             Node tempNode = head;
-            for(int i=0; i<size-2; i++){
+            for(int i=1; i<size-1; i++){
                 tempNode = tempNode.next;
             }
             if(tempNode == head) {
