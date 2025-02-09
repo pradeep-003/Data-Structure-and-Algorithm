@@ -21,6 +21,8 @@ public class Main {
          System.out.println(drinks.print(0));
          */
 
+        /**
+
         BinaryTreeLL binaryTree = new BinaryTreeLL();
                                 BinaryNode N1 = new BinaryNode();
         N1.value = "N1";        BinaryNode N2 = new BinaryNode();
@@ -40,12 +42,58 @@ public class Main {
 
         binaryTree.root = N1;
 
+
         binaryTree.preOrder(binaryTree.root);
         System.out.println();
         binaryTree.inOrder(binaryTree.root);
         System.out.println();
         binaryTree.postOrder(binaryTree.root);
         System.out.println();
-        binaryTree.levelOrder(binaryTree.root);
+        binaryTree.levelOrder();
+        System.out.println();
+        binaryTree.search("N6");
+        System.out.println();
+        binaryTree.insert("N10");
+        System.out.println();
+        binaryTree.preOrder(binaryTree.root);
+
+        binaryTree.deleteNode("N5");
+        binaryTree.levelOrder();
+
+        binaryTree.deleteBT();
+        try{
+            binaryTree.levelOrder();
+        } catch (Exception e) {
+            System.out.println(e.toString());
+        }
+
+         */
+
+        // Array BT
+
+        BinaryTree newBinaryTree = new BinaryTree(5);
+
+        newBinaryTree.insert("N1");
+        newBinaryTree.insert("N2");
+        newBinaryTree.insert("N3");
+        newBinaryTree.insert("N4");
+        newBinaryTree.insert("N5");
+        newBinaryTree.insert("N6");
+
+        newBinaryTree.preOrder(1);
+        System.out.println();
+        newBinaryTree.inOrder(1);
+        System.out.println();
+        newBinaryTree.postOrder(1);
+        System.out.println();
+        newBinaryTree.levelOrder();
+        System.out.println();
+        newBinaryTree.search("N4");
+        newBinaryTree.delete("N4");
+        System.out.println();
+        newBinaryTree.levelOrder();
+        System.out.println();
+        newBinaryTree.deleteBT();
+
     }
 }

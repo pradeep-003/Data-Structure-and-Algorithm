@@ -1,9 +1,9 @@
-package TREE;
+package TREE.BinarySearchTree;
 
 public class BinaryNode {
     public BinaryNode left;
     public BinaryNode right;
 
-    public String value;
+    public int value;
     public int height;
 }
